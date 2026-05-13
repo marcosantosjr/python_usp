@@ -1,3 +1,5 @@
+#Dados n e n seqüências de números inteiros não-nulos, cada qual seguida por um 0, calcular a soma dos números pares de cada seqüência.
+
 def main():
     # Lê o número n de sequências
     n = int(input("Digite o número de sequências: "))
